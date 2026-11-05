@@ -48,6 +48,7 @@ that changes the translation in the layer file and leaves the hash alone.
 | ja | 日本語 | 44,723 |
 | ko | 한국어 | 44,723 |
 | lt | Lietuvių | 44,723 |
+| lo | ພາສາລາວ | 44,723 |
 | lv | Latviešu | 44,723 |
 | mr | मराठी | 44,723 |
 | ms | Bahasa Melayu | 44,723 |
